@@ -1,4 +1,10 @@
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&size=15&duration=3000&pause=1000&color=AFAFAF&center=true&width=650&lines=Decepticon's+attack!;Transform,+and+rise+up!;Till+all+are+one!" title="Till all are one.!" alt="Typing SVG" />
+<hr>
+</div>
+</p>
+
+<p align="center">
 <img src="https://github.com/user-attachments/assets/34304c21-a3b3-43a9-bd0b-73c550a5fbcc"> </p>
 
 <p align="center">
